@@ -1,0 +1,7 @@
+--index https://pypi.tuna.tsinghua.edu.cn/simple
+
+
+requests==2.28.0
+requests[socks]
+pyOpenSSL==22.0.0
+PySocks==1.7.1
